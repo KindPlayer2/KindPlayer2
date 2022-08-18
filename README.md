@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kindplayer2&label=Profile%20views&color=0e75b6&style=flat" alt="kindplayer2" /> </p>
 
-- 🔭 I’m currently working on **Slug Dungeon**
+- 🔭 I’m currently working on **game development projects**
 
 - 🌱 I’m currently learning **Object oriented programming**
 
 - 👯 I’m looking to collaborate on **any exciting new computer science related projects**
-
-- 🤝 I’m looking for help with **Unity**
 
 - 📫 How to reach me **seanpatricktighe@gmail.com**
 
