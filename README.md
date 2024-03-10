@@ -3,8 +3,11 @@
 
 ## About
 -3rd year computer science student in Technological University Dublin
+
 -Here you will find some college projects and some individual projects
+
 -Passionate for Game development.
+
 -Check pinned Repos for current projects
 
 - 📫 How to reach me **seanpatricktighe@gmail.com**
