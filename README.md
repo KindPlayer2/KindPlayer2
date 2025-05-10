@@ -4,7 +4,7 @@
 ## About
 -4th year computer science student in Technological University Dublin
 
--Here you will find some college projects and some individual projects
+-Here you will find some college projects and many personal individual projects
 
 -Passionate for Game development.
 
