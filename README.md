@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kindplayer2&label=Profile%20views&color=0e75b6&style=flat" alt="kindplayer2" /> </p>
 
 ## About
--4th year computer science student in Technological University Dublin
+-computer science graduate from Technological University Dublin
 
 -Here you will find some college projects and many personal individual projects
 
